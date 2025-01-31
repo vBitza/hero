@@ -69,6 +69,7 @@ curl --location 'http://localhost:2000/superheroes' \
 4. Server could interact with a Real Database to provide data persistence, currently if the server is restarted any manual data created by the User is lost.
 5. Overall requests logging and response format can be improved, especially for errors.
 6. Add more API Unit Tests
+7. Add Swagger Documentation
 _____________________
 - 🎉 Happy Coding! 🌟
 
