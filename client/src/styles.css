@@ -1,0 +1,52 @@
+/* Global Styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+/* Header Styles */
+.header {
+  background-color: #4a69bd; /* Blue color */
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.container {
+  overflow: hidden;
+  height: 100%;
+}
+
+/* Dropdown Styles */
+.dropdown-container {
+  margin-top: 20px;
+}
+
+.label {
+  font-size: 18px;
+  color: #4a69bd; /* Blue color */
+}
+
+.select {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: white;
+  color: #333;
+}
+
+/* Footer Styles */
+.footer {
+  position: absolute;
+  bottom: 0px;
+  background-color: #805ad5; /* Purple color */
+  color: white;
+  padding: 2px;
+
+  text-align: center;
+}

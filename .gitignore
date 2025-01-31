@@ -1,3 +1,9 @@
+# Custom gitignore
+client/node_modules
+server/node_modules
+.idea
+
+# Auto-generated section for Node Apps
 # Logs
 logs
 *.log
@@ -23,7 +29,7 @@ lib-cov
 coverage
 *.lcov
 
-# nyc test coverage
+# nyc tests coverage
 .nyc_output
 
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
